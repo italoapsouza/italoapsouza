@@ -4,9 +4,9 @@
 - 🏠 João Pessoa - PB
 - 👨‍💼 Futuro Desenvolvedor Front-End;
 - 👨🏼‍🎓 Estudante de programação (JS, HTML, CSS, BOOTSTRAP e REACT);
-- 🎓 Formação: Marketing (Completo) / Analise e desenvolvimento de sistemas (Iniciando em breve)
-- ❣️ Apaixonado por tecnologia, Jogos online/E-sports e aviação civil.
-- 🔁 Migrando de carreira!
+- 🎓 Formação: Marketing (Completo) / Analise e desenvolvimento de sistemas (Iniciando em breve);
+- ❣️ Apaixonado por tecnologia, Jogos online/E-sports e aviação civil;
+- 🔁 Migrando de carreira;
 
 ##
 
